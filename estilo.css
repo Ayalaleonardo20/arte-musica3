@@ -104,3 +104,14 @@
             border-radius: 2em;
             font-weight: 900;
         }
+
+.carga {
+            
+            left: 0px;
+            top: 0px;
+            width: 100%;
+            height: 100%;
+            z-index: 9999;
+            background: url('https://media.tenor.com/Y4AzOUrW5GQAAAAC/gato-moviendo-la-cabeza-al-ritmo-de-la-musica.gif')  rgb(10, 3, 3);
+            opacity: .8;
+        }
